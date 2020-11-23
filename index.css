@@ -1,5 +1,5 @@
 html {
-  scroll-behavior: smooth;
+    scroll-behavior: smooth;
 }
 
 html, body {
@@ -197,24 +197,38 @@ h3 {
 
 .video {
     width: 100%;
-    max-width: 560px;
+    height: 70vh;
+    max-height: 500px;
+    min-height: 300px;
 }
 
 @media (max-width: 1024px) {
-
-    h1 {
-        font-size: 40px;
-        line-height: 54px;
-    }
-
     .container {
         padding: 60px 40px;
+    }
+
+    .video {
+        height: 60vh;
+        max-height: 400px;
+        min-height: 300px;
     }
 }
 
 @media (max-width: 600px) {
+    h1 {
+        font-size: 40px;
+        line-height: 54px;
+        margin-top: 120px;
+    }
+
     .container {
         padding: 60px 20px;
+    }
+
+    .video {
+        height: 40vh;
+        max-height: 290px;
+        min-height: 200px;
     }
 }
 
