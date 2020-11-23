@@ -21,7 +21,8 @@
 <main>
     <div class="container promo">
         <div class="promo__title">
-            <a href="#"><img src="img/logo-csc.svg" alt="Логотип Computer Science Center" width="66" height="24"></a>
+            <a href="https://compscicenter.ru" rel="noopener">
+                <img src="img/logo-csc.svg" alt="Логотип Computer Science Center" width="66" height="24"></a>
             <h1> Новогоднее<br>соревнование</h1>
             <a class="button" href="#rules">Участвовать</a>
         </div>
@@ -761,7 +762,8 @@
                 зарегистрируйтесь на участие в
                 соревновании до 15 декабря.
             </p>
-            <iframe src="https://forms.yandex.ru/u/5fb24a423575bf9e5e461383/?iframe=1" frameborder="0"
+            <iframe title="Форма регистрации участников"
+                    src="https://forms.yandex.ru/u/5fb24a423575bf9e5e461383/?iframe=1" frameborder="0"
                     name="ya-form-5fb24a423575bf9e5e461383" width="100%"></iframe>
         </div>
     </div>
@@ -769,12 +771,15 @@
         <div class="container">
             <h2>Computer Science Center</h2>
             <p>
-                <a class="link" href="https://compscicenter.ru/" target="_blank">Computer Science Center</a> — это
+                <a class="link" href="https://compscicenter.ru/" target="_blank" rel="noopener">Computer Science
+                    Center</a> — это
                 совместная инициатива
-                <a class="link" href="http://compsciclub.ru/" target="_blank">Computer Science клуба при ПОМИ РАН</a>,
+                <a class="link" href="http://compsciclub.ru/" target="_blank" rel="noopener">Computer Science клуба при
+                    ПОМИ РАН</a>,
                 компании
-                <a class="link" href="http://jetbrains.ru/" target="_blank">JetBrains</a>
-                и <a class="link" href="http://shad.yandex.ru/" target="_blank">Школы анализа данных</a> Яндекса.
+                <a class="link" href="http://jetbrains.ru/" target="_blank" rel="noopener">JetBrains</a>
+                и <a class="link" href="http://shad.yandex.ru/" target="_blank" rel="noopener">Школы анализа данных</a>
+                Яндекса.
             </p>
             <p>
                 Мы предлагаем двух- или трёхлетние очные вечерние курсы в Санкт-Петербурге и Новосибирске. Онлайн-курсы
@@ -788,13 +793,14 @@
 
             <h3>2020-й год в CS центре</h3>
             <p>Подборка лучших лекций и статей центра</p>
-            <iframe width="560" height="315" src="https://www.youtube.com/embed/_0Dm2ecxcCw" frameborder="0"
+            <iframe title="Видео о CS центре" width="560" height="315" src="https://www.youtube.com/embed/_0Dm2ecxcCw"
+                    frameborder="0"
                     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                     allowfullscreen></iframe>
         </div>
     </div>
     <button class="button button-start">🎵</button>
-    <audio class="audio" loop="" autoplay="autoplay">
+    <audio class="audio" loop="">
         <source src="https://freesound.org/data/previews/414/414673_8061621-lq.mp3" type="audio/mp3">
     </audio>
 </main>
@@ -822,8 +828,6 @@
 </script>
 <script>
     var buttonStart = document.querySelector(".button-start");
-    // var audio = document.querySelector(".audio");
-    // audio.play();
     buttonStart.addEventListener("click", function (evt) {
         evt.preventDefault();
         var audio = document.querySelector(".audio");
