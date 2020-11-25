@@ -22,25 +22,6 @@
 <main>
     <!-- Put this script tag to the <head> of your page -->
     <script type="text/javascript" src="https://vk.com/js/api/share.js?95" charset="windows-1251"></script>
-
-    <div class="share-btns">
-        <p>Поделиться</p>
-        <!-- Put this script tag to the place, where the Share button will be -->
-        <script type="text/javascript">
-            document.write(VK.Share.button(false, {
-                type: "custom",
-                image: 'https://raw.githubusercontent.com/cscenter/compscicenterNY2021test.io/main/img/preview.jpg',
-                text: "<img src=\"https://vk.com/images/share_32.png\" width=\"32\" height=\"32\" alt=\"Поделиться во Вконтакте\" />"
-            }));
-        </script>
-        <div id="fb-share-button" aria-label="Поделиться на Facebook">
-            <svg viewBox="0 0 12 12" preserveAspectRatio="xMidYMid meet">
-                <path class="svg-icon-path"
-                      d="M9.1,0.1V2H8C7.6,2,7.3,2.1,7.1,2.3C7,2.4,6.9,2.7,6.9,3v1.4H9L8.8,6.5H6.9V12H4.7V6.5H2.9V4.4h1.8V2.8 c0-0.9,0.3-1.6,0.7-2.1C6,0.2,6.6,0,7.5,0C8.2,0,8.7,0,9.1,0.1z"></path>
-            </svg>
-        </div>
-    </div>
-
     <div class="promo-wrapper">
         <section class="promo">
             <div class="promo__title">
@@ -845,6 +826,24 @@
     <audio class="audio pause" loop="" preload="metadata">
         <source src="https://freesound.org/data/previews/414/414673_8061621-lq.mp3" type="audio/mp3">
     </audio>
+
+    <div class="share-btns">
+        <p class="share-btns__title">Поделиться</p>
+        <!-- Put this script tag to the place, where the Share button will be -->
+        <script type="text/javascript">
+            document.write(VK.Share.button(false, {
+                type: "custom",
+                image: 'https://raw.githubusercontent.com/cscenter/compscicenterNY2021test.io/main/img/preview.jpg',
+                text: "<img src=\"https://vk.com/images/share_32.png\" width=\"32\" height=\"32\" alt=\"Поделиться во Вконтакте\" />"
+            }));
+        </script>
+        <div id="fb-share-button" aria-label="Поделиться на Facebook">
+            <svg viewBox="0 0 12 12" preserveAspectRatio="xMidYMid meet">
+                <path class="svg-icon-path"
+                      d="M9.1,0.1V2H8C7.6,2,7.3,2.1,7.1,2.3C7,2.4,6.9,2.7,6.9,3v1.4H9L8.8,6.5H6.9V12H4.7V6.5H2.9V4.4h1.8V2.8 c0-0.9,0.3-1.6,0.7-2.1C6,0.2,6.6,0,7.5,0C8.2,0,8.7,0,9.1,0.1z"></path>
+            </svg>
+        </div>
+    </div>
 </main>
 <script>
     $(function () {
