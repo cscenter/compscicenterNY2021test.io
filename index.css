@@ -162,7 +162,6 @@ header a {
 }
 
 .rules {
-    margin-top: 40px;
     display: flex;
     align-items: center;
     text-align: center;
@@ -370,8 +369,10 @@ h3 {
 }
 
 .top h2 {
-    margin-top: 0;
     margin-bottom: 12px;
+    text-shadow: 0 2px 0 #224918;
+    color: #fff;
+    margin-top: 24px;
 }
 
 .rating-table {
@@ -381,6 +382,8 @@ h3 {
     padding: 0;
     font-size: 20px;
     border-collapse: collapse;
+    background-color: #fff;
+    border-radius: 4px;
 }
 
 .rating-table thead {
@@ -392,14 +395,35 @@ h3 {
 }
 
 .rating-table td {
-    padding: 8px;
-    border-bottom: 1px solid #AFD8F9;
-    vertical-align: top;
+    padding: 12px;
+    border-bottom: 1px solid #d0d8de;
+
+}
+
+.rating-table tbody tr:last-child td {
+    border-bottom: none;
+}
+
+.rating-table tr td:first-child {
+    text-align: center;
+    min-width: 24px;
+    padding: 0 0 0 12px;
 }
 
 .rating-table .link {
     color: #3b5998;
     border: none;
+}
+
+.top {
+    background-image: url("../img/result-bg.svg");
+    background-repeat: repeat;
+}
+
+.top p {
+    color: #fff;
+    font-size: 18px;
+    text-shadow: 0 1px 1px #224918;
 }
 
 @media (max-width: 1024px) {
@@ -463,6 +487,11 @@ h3 {
     .rating-table {
         font-size: 16px;
     }
+
+    .rating-table td {
+        /*vertical-align: top;*/
+        padding: 8px;
+    }
 }
 
 @media (max-width: 350px) {
@@ -475,6 +504,10 @@ h3 {
     h2 {
         font-size: 28px;
         line-height: 36px;
+    }
+
+    .container {
+        padding: 60px 10px;
     }
 
     .form {
@@ -491,7 +524,8 @@ h3 {
         line-height: 32px;
     }
 
-    #about-csc {
+    #about-csc,
+    .rules-list__item {
         font-size: 20px;
         line-height: 30px;
     }
