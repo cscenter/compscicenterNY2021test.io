@@ -534,3 +534,20 @@ h3 {
         font-size: 14px;
     }
 }
+
+.authors h2 {
+    margin-top: 50px;
+    font-size: 40px;
+}
+
+.authors p {
+    font-size: 24px;
+}
+
+.authors .authors__best {
+    margin-bottom: 40px;
+}
+
+.authors .authors__best:last-child {
+    margin-bottom: 0;
+}

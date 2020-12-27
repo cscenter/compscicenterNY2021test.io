@@ -1,123 +1,282 @@
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" x="0" y="0" viewBox="0 0 1600 1000"
-     xml:space="preserve"><style>.st1{fill:#58b147}.st2{fill:#088443}</style>
-    <g id="XMLID_2794_"><g id="XMLID_3510_"><path id="XMLID_3509_" d="M1657.7 1039.4H-56.7c-2.8 0-5-2.2-5-5V-33.4c0-2.8 2.2-5 5-5h1714.4c2.8 0 5 2.2 5 5v1067.8c0 2.7-2.2 5-5 5z" fill="#30a349"/><g
-            id="XMLID_2795_"><g id="XMLID_3487_"><g id="XMLID_3506_"><path id="XMLID_3508_" class="st1" d="M227.8 1000.5l-57.2-111.1-57.2 111.1z"/><path
-            id="XMLID_3507_" class="st2" d="M113.4 1000.5L56.2 889.4-1 1000.5z"/></g><g id="XMLID_3503_"><path id="XMLID_3505_" class="st1" d="M456.5 1000.5l-57.2-111.1-57.1 111.1z"/>
-        <path id="XMLID_3504_" class="st2" d="M342.2 1000.5L285 889.4l-57.2 111.1z"/></g><g id="XMLID_3500_"><path id="XMLID_3502_" class="st1" d="M685.3 1000.5l-57.2-111.1-57.2 111.1z"/>
-        <path id="XMLID_3501_" class="st2" d="M570.9 1000.5l-57.2-111.1-57.2 111.1z"/></g><g id="XMLID_3497_"><path id="XMLID_3499_" class="st1" d="M914 1000.5l-57.2-111.1-57.1 111.1z"/>
-        <path id="XMLID_3498_" class="st2" d="M799.7 1000.5l-57.2-111.1-57.2 111.1z"/></g><g id="XMLID_3494_"><path id="XMLID_3496_" class="st1" d="M1142.8 1000.5l-57.2-111.1-57.2 111.1z"/>
-        <path id="XMLID_3495_" class="st2" d="M1028.4 1000.5l-57.2-111.1-57.2 111.1z"/></g><g id="XMLID_3491_"><path id="XMLID_3493_" class="st1" d="M1371.5 1000.5l-57.2-111.1-57.2 111.1z"/>
-        <path id="XMLID_3492_" class="st2" d="M1257.1 1000.5L1200 889.4l-57.2 111.1z"/></g><g id="XMLID_3488_"><path id="XMLID_3490_" class="st1" d="M1600.3 1000.5l-57.2-111.1-57.2 111.1z"/>
-        <path id="XMLID_3489_" class="st2" d="M1485.9 1000.5l-57.2-111.1-57.2 111.1z"/></g></g>
-        <g id="XMLID_3416_"><g id="XMLID_3435_"><path id="XMLID_3486_" class="st1" d="M1371.5 889.4l57.2-111.1 57.2 111.1z"/><path
-                id="XMLID_3485_" class="st2" d="M1485.9 889.4l57.2-111.1 57.2 111.1z"/></g>
-            <g id="XMLID_3432_"><path id="XMLID_3434_" class="st1" d="M1142.8 889.4l57.2-111.1 57.1 111.1z"/>
-                <path id="XMLID_3433_" class="st2" d="M1257.1 889.4l57.2-111.1 57.2 111.1z"/></g>
-            <g id="XMLID_3429_"><path id="XMLID_3431_" class="st1" d="M914 889.4l57.2-111.1 57.2 111.1z"/>
-                <path id="XMLID_3430_" class="st2" d="M1028.4 889.4l57.2-111.1 57.2 111.1z"/></g>
-            <g id="XMLID_3426_"><path id="XMLID_3428_" class="st1" d="M685.3 889.4l57.2-111.1 57.2 111.1z"/>
-                <path id="XMLID_3427_" class="st2" d="M799.7 889.4l57.1-111.1L914 889.4z"/></g>
-            <g id="XMLID_3423_"><path id="XMLID_3425_" class="st1" d="M456.5 889.4l57.2-111.1 57.2 111.1z"/>
-                <path id="XMLID_3424_" class="st2" d="M570.9 889.4l57.2-111.1 57.2 111.1z"/></g>
-            <g id="XMLID_3420_"><path id="XMLID_3422_" class="st1" d="M227.8 889.4L285 778.3l57.2 111.1z"/>
-                <path id="XMLID_3421_" class="st2" d="M342.2 889.4l57.1-111.1 57.2 111.1z"/></g>
-            <g id="XMLID_3417_"><path id="XMLID_3419_" class="st1" d="M-1 889.4l57.2-111.1 57.2 111.1z"/>
-                <path id="XMLID_3418_" class="st2" d="M113.4 889.4l57.2-111.1 57.2 111.1z"/></g></g>
-        <g id="XMLID_3394_"><g id="XMLID_3413_"><path id="XMLID_3415_" class="st1" d="M227.8 778.3l-57.2-111.1-57.2 111.1z"/><path
-                id="XMLID_3414_" class="st2" d="M113.4 778.3L56.2 667.2-1 778.3z"/></g>
-            <g id="XMLID_3410_"><path id="XMLID_3412_" class="st1" d="M456.5 778.3l-57.2-111.1-57.1 111.1z"/>
-                <path id="XMLID_3411_" class="st2" d="M342.2 778.3L285 667.2l-57.2 111.1z"/></g>
-            <g id="XMLID_3407_"><path id="XMLID_3409_" class="st1" d="M685.3 778.3l-57.2-111.1-57.2 111.1z"/>
-                <path id="XMLID_3408_" class="st2" d="M570.9 778.3l-57.2-111.1-57.2 111.1z"/></g>
-            <g id="XMLID_3404_"><path id="XMLID_3406_" class="st1" d="M914 778.3l-57.2-111.1-57.1 111.1z"/>
-                <path id="XMLID_3405_" class="st2" d="M799.7 778.3l-57.2-111.1-57.2 111.1z"/></g>
-            <g id="XMLID_3401_"><path id="XMLID_3403_" class="st1" d="M1142.8 778.3l-57.2-111.1-57.2 111.1z"/>
-                <path id="XMLID_3402_" class="st2" d="M1028.4 778.3l-57.2-111.1L914 778.3z"/></g>
-            <g id="XMLID_3398_"><path id="XMLID_3400_" class="st1" d="M1371.5 778.3l-57.2-111.1-57.2 111.1z"/>
-                <path id="XMLID_3399_" class="st2" d="M1257.1 778.3L1200 667.2l-57.2 111.1z"/></g>
-            <g id="XMLID_3395_"><path id="XMLID_3397_" class="st1" d="M1600.3 778.3l-57.2-111.1-57.2 111.1z"/>
-                <path id="XMLID_3396_" class="st2" d="M1485.9 778.3l-57.2-111.1-57.2 111.1z"/></g></g>
-        <g id="XMLID_3372_"><g id="XMLID_3391_"><path id="XMLID_3393_" class="st1" d="M1371.5 667.2l57.2-111.1 57.2 111.1z"/><path
-                id="XMLID_3392_" class="st2" d="M1485.9 667.2l57.2-111.1 57.2 111.1z"/></g>
-            <g id="XMLID_3388_"><path id="XMLID_3390_" class="st1" d="M1142.8 667.2l57.2-111.1 57.1 111.1z"/>
-                <path id="XMLID_3389_" class="st2" d="M1257.1 667.2l57.2-111.1 57.2 111.1z"/></g>
-            <g id="XMLID_3385_"><path id="XMLID_3387_" class="st1" d="M914 667.2l57.2-111.1 57.2 111.1z"/>
-                <path id="XMLID_3386_" class="st2" d="M1028.4 667.2l57.2-111.1 57.2 111.1z"/></g>
-            <g id="XMLID_3382_"><path id="XMLID_3384_" class="st1" d="M685.3 667.2l57.2-111.1 57.2 111.1z"/>
-                <path id="XMLID_3383_" class="st2" d="M799.7 667.2l57.1-111.1L914 667.2z"/></g>
-            <g id="XMLID_3379_"><path id="XMLID_3381_" class="st1" d="M456.5 667.2l57.2-111.1 57.2 111.1z"/>
-                <path id="XMLID_3380_" class="st2" d="M570.9 667.2l57.2-111.1 57.2 111.1z"/></g>
-            <g id="XMLID_3376_"><path id="XMLID_3378_" class="st1" d="M227.8 667.2L285 556.1l57.2 111.1z"/>
-                <path id="XMLID_3377_" class="st2" d="M342.2 667.2l57.1-111.1 57.2 111.1z"/></g>
-            <g id="XMLID_3373_"><path id="XMLID_3375_" class="st1" d="M-1 667.2l57.2-111.1 57.2 111.1z"/>
-                <path id="XMLID_3374_" class="st2" d="M113.4 667.2l57.2-111.1 57.2 111.1z"/></g></g>
-        <g id="XMLID_3350_"><g id="XMLID_3369_"><path id="XMLID_3371_" class="st1" d="M227.8 556.1l-57.2-111.2-57.2 111.2z"/><path
-                id="XMLID_3370_" class="st2" d="M113.4 556.1L56.2 444.9-1 556.1z"/></g>
-            <g id="XMLID_3366_"><path id="XMLID_3368_" class="st1" d="M456.5 556.1l-57.2-111.2-57.1 111.2z"/>
-                <path id="XMLID_3367_" class="st2" d="M342.2 556.1L285 444.9l-57.2 111.2z"/></g>
-            <g id="XMLID_3363_"><path id="XMLID_3365_" class="st1" d="M685.3 556.1l-57.2-111.2-57.2 111.2z"/>
-                <path id="XMLID_3364_" class="st2" d="M570.9 556.1l-57.2-111.2-57.2 111.2z"/></g>
-            <g id="XMLID_3360_"><path id="XMLID_3362_" class="st1" d="M914 556.1l-57.2-111.2-57.1 111.2z"/>
-                <path id="XMLID_3361_" class="st2" d="M799.7 556.1l-57.2-111.2-57.2 111.2z"/></g>
-            <g id="XMLID_3357_"><path id="XMLID_3359_" class="st1" d="M1142.8 556.1l-57.2-111.2-57.2 111.2z"/>
-                <path id="XMLID_3358_" class="st2" d="M1028.4 556.1l-57.2-111.2L914 556.1z"/></g>
-            <g id="XMLID_3354_"><path id="XMLID_3356_" class="st1" d="M1371.5 556.1l-57.2-111.2-57.2 111.2z"/>
-                <path id="XMLID_3355_" class="st2" d="M1257.1 556.1L1200 444.9l-57.2 111.2z"/></g>
-            <g id="XMLID_3351_"><path id="XMLID_3353_" class="st1" d="M1600.3 556.1l-57.2-111.2-57.2 111.2z"/>
-                <path id="XMLID_3352_" class="st2" d="M1485.9 556.1l-57.2-111.2-57.2 111.2z"/></g></g>
-        <g id="XMLID_3328_"><g id="XMLID_3347_"><path id="XMLID_3349_" class="st1" d="M1371.5 444.9l57.2-111.1 57.2 111.1z"/><path
-                id="XMLID_3348_" class="st2" d="M1485.9 444.9l57.2-111.1 57.2 111.1z"/></g>
-            <g id="XMLID_3344_"><path id="XMLID_3346_" class="st1" d="M1142.8 444.9l57.2-111.1 57.1 111.1z"/>
-                <path id="XMLID_3345_" class="st2" d="M1257.1 444.9l57.2-111.1 57.2 111.1z"/></g>
-            <g id="XMLID_3341_"><path id="XMLID_3343_" class="st1" d="M914 444.9l57.2-111.1 57.2 111.1z"/>
-                <path id="XMLID_3342_" class="st2" d="M1028.4 444.9l57.2-111.1 57.2 111.1z"/></g>
-            <g id="XMLID_3338_"><path id="XMLID_3340_" class="st1" d="M685.3 444.9l57.2-111.1 57.2 111.1z"/>
-                <path id="XMLID_3339_" class="st2" d="M799.7 444.9l57.1-111.1L914 444.9z"/></g>
-            <g id="XMLID_3335_"><path id="XMLID_3337_" class="st1" d="M456.5 444.9l57.2-111.1 57.2 111.1z"/>
-                <path id="XMLID_3336_" class="st2" d="M570.9 444.9l57.2-111.1 57.2 111.1z"/></g>
-            <g id="XMLID_3332_"><path id="XMLID_3334_" class="st1" d="M227.8 444.9L285 333.8l57.2 111.1z"/>
-                <path id="XMLID_3333_" class="st2" d="M342.2 444.9l57.1-111.1 57.2 111.1z"/></g>
-            <g id="XMLID_3329_"><path id="XMLID_3331_" class="st1" d="M-1 444.9l57.2-111.1 57.2 111.1z"/>
-                <path id="XMLID_3330_" class="st2" d="M113.4 444.9l57.2-111.1 57.2 111.1z"/></g></g>
-        <g id="XMLID_3306_"><g id="XMLID_3325_"><path id="XMLID_3327_" class="st1" d="M227.8 333.8l-57.2-111.1-57.2 111.1z"/><path
-                id="XMLID_3326_" class="st2" d="M113.4 333.8L56.2 222.7-1 333.8z"/></g>
-            <g id="XMLID_3322_"><path id="XMLID_3324_" class="st1" d="M456.5 333.8l-57.2-111.1-57.1 111.1z"/>
-                <path id="XMLID_3323_" class="st2" d="M342.2 333.8L285 222.7l-57.2 111.1z"/></g>
-            <g id="XMLID_3319_"><path id="XMLID_3321_" class="st1" d="M685.3 333.8l-57.2-111.1-57.2 111.1z"/>
-                <path id="XMLID_3320_" class="st2" d="M570.9 333.8l-57.2-111.1-57.2 111.1z"/></g>
-            <g id="XMLID_3316_"><path id="XMLID_3318_" class="st1" d="M914 333.8l-57.2-111.1-57.1 111.1z"/>
-                <path id="XMLID_3317_" class="st2" d="M799.7 333.8l-57.2-111.1-57.2 111.1z"/></g>
-            <g id="XMLID_3313_"><path id="XMLID_3315_" class="st1" d="M1142.8 333.8l-57.2-111.1-57.2 111.1z"/>
-                <path id="XMLID_3314_" class="st2" d="M1028.4 333.8l-57.2-111.1L914 333.8z"/></g>
-            <g id="XMLID_3310_"><path id="XMLID_3312_" class="st1" d="M1371.5 333.8l-57.2-111.1-57.2 111.1z"/>
-                <path id="XMLID_3311_" class="st2" d="M1257.1 333.8L1200 222.7l-57.2 111.1z"/></g>
-            <g id="XMLID_3307_"><path id="XMLID_3309_" class="st1" d="M1600.3 333.8l-57.2-111.1-57.2 111.1z"/>
-                <path id="XMLID_3308_" class="st2" d="M1485.9 333.8l-57.2-111.1-57.2 111.1z"/></g></g>
-        <g id="XMLID_3264_"><g id="XMLID_3303_"><path id="XMLID_3305_" class="st1" d="M227.8 111.6L170.6.5l-57.2 111.1z"/><path
-                id="XMLID_3304_" class="st2" d="M113.4 111.6L56.2.5-1 111.6z"/></g>
-            <g id="XMLID_3280_"><path id="XMLID_3302_" class="st1" d="M456.5 111.6L399.3.5l-57.1 111.1z"/>
-                <path id="XMLID_3301_" class="st2" d="M342.2 111.6L285 .5l-57.2 111.1z"/></g>
-            <g id="XMLID_3277_"><path id="XMLID_3279_" class="st1" d="M685.3 111.6L628.1.5l-57.2 111.1z"/>
-                <path id="XMLID_3278_" class="st2" d="M570.9 111.6L513.7.5l-57.2 111.1z"/></g>
-            <g id="XMLID_3274_"><path id="XMLID_3276_" class="st1" d="M914 111.6L856.8.5l-57.1 111.1z"/>
-                <path id="XMLID_3275_" class="st2" d="M799.7 111.6L742.5.5l-57.2 111.1z"/></g>
-            <g id="XMLID_3271_"><path id="XMLID_3273_" class="st1" d="M1142.8 111.6L1085.6.5l-57.2 111.1z"/>
-                <path id="XMLID_3272_" class="st2" d="M1028.4 111.6L971.2.5 914 111.6z"/></g>
-            <g id="XMLID_3268_"><path id="XMLID_3270_" class="st1" d="M1371.5 111.6L1314.3.5l-57.2 111.1z"/>
-                <path id="XMLID_3269_" class="st2" d="M1257.1 111.6L1200 .5l-57.2 111.1z"/></g>
-            <g id="XMLID_3265_"><path id="XMLID_3267_" class="st1" d="M1600.3 111.6L1543.1.5l-57.2 111.1z"/>
-                <path id="XMLID_3266_" class="st2" d="M1485.9 111.6L1428.7.5l-57.2 111.1z"/></g></g>
-        <g id="XMLID_2796_"><g id="XMLID_3261_"><path id="XMLID_3263_" class="st1" d="M1371.5 222.7l57.2-111.1 57.2 111.1z"/><path
-                id="XMLID_3262_" class="st2" d="M1485.9 222.7l57.2-111.1 57.2 111.1z"/></g>
-            <g id="XMLID_3258_"><path id="XMLID_3260_" class="st1" d="M1142.8 222.7l57.2-111.1 57.1 111.1z"/>
-                <path id="XMLID_3259_" class="st2" d="M1257.1 222.7l57.2-111.1 57.2 111.1z"/></g>
-            <g id="XMLID_3255_"><path id="XMLID_3257_" class="st1" d="M914 222.7l57.2-111.1 57.2 111.1z"/>
-                <path id="XMLID_3256_" class="st2" d="M1028.4 222.7l57.2-111.1 57.2 111.1z"/></g>
-            <g id="XMLID_2806_"><path id="XMLID_3254_" class="st1" d="M685.3 222.7l57.2-111.1 57.2 111.1z"/>
-                <path id="XMLID_2808_" class="st2" d="M799.7 222.7l57.1-111.1L914 222.7z"/></g>
-            <g id="XMLID_2803_"><path id="XMLID_2805_" class="st1" d="M456.5 222.7l57.2-111.1 57.2 111.1z"/>
-                <path id="XMLID_2804_" class="st2" d="M570.9 222.7l57.2-111.1 57.2 111.1z"/></g>
-            <g id="XMLID_2800_"><path id="XMLID_2802_" class="st1" d="M227.8 222.7L285 111.6l57.2 111.1z"/>
-                <path id="XMLID_2801_" class="st2" d="M342.2 222.7l57.1-111.1 57.2 111.1z"/></g>
-            <g id="XMLID_2797_"><path id="XMLID_2799_" class="st1" d="M-1 222.7l57.2-111.1 57.2 111.1z"/>
-                <path id="XMLID_2798_" class="st2" d="M113.4 222.7l57.2-111.1 57.2 111.1z"/></g></g></g></g></g></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1597px" height="998px" viewBox="0 0 1597 998" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>result-bg</title>
+    <g id="result-bg" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-65.000000, -42.000000)" fill-rule="nonzero">
+            <path d="M1719.7,1078.4 L5.3,1078.4 C2.5,1078.4 0.3,1076.2 0.3,1073.4 L0.3,5.6 C0.3,2.8 2.5,0.6 5.3,0.6 L1719.7,0.6 C1722.5,0.6 1724.7,2.8 1724.7,5.6 L1724.7,1073.4 C1724.7,1076.1 1722.5,1078.4 1719.7,1078.4 L1719.7,1078.4 Z" id="XMLID_3509_" fill="#30A349"></path>
+            <g id="XMLID_2795_" transform="translate(61.000000, 39.000000)">
+                <g id="XMLID_3487_" transform="translate(0.000000, 889.000000)">
+                    <g id="XMLID_3506_">
+                        <polygon id="XMLID_3508_" fill="#58B147" points="228.8 111.5 171.6 0.4 114.4 111.5"></polygon>
+                        <polygon id="XMLID_3507_" fill="#088443" points="114.4 111.5 57.2 0.4 0 111.5"></polygon>
+                    </g>
+                    <g id="XMLID_3503_" transform="translate(228.000000, 0.000000)">
+                        <polygon id="XMLID_3505_" fill="#58B147" points="229.5 111.5 172.3 0.4 115.2 111.5"></polygon>
+                        <polygon id="XMLID_3504_" fill="#088443" points="115.2 111.5 58 0.4 0.8 111.5"></polygon>
+                    </g>
+                    <g id="XMLID_3500_" transform="translate(457.000000, 0.000000)">
+                        <polygon id="XMLID_3502_" fill="#58B147" points="229.3 111.5 172.1 0.4 114.9 111.5"></polygon>
+                        <polygon id="XMLID_3501_" fill="#088443" points="114.9 111.5 57.7 0.4 0.5 111.5"></polygon>
+                    </g>
+                    <g id="XMLID_3497_" transform="translate(686.000000, 0.000000)">
+                        <polygon id="XMLID_3499_" fill="#58B147" points="229 111.5 171.8 0.4 114.7 111.5"></polygon>
+                        <polygon id="XMLID_3498_" fill="#088443" points="114.7 111.5 57.5 0.4 0.3 111.5"></polygon>
+                    </g>
+                    <g id="XMLID_3494_" transform="translate(915.000000, 0.000000)">
+                        <polygon id="XMLID_3496_" fill="#58B147" points="228.8 111.5 171.6 0.4 114.4 111.5"></polygon>
+                        <polygon id="XMLID_3495_" fill="#088443" points="114.4 111.5 57.2 0.4 0 111.5"></polygon>
+                    </g>
+                    <g id="XMLID_3491_" transform="translate(1143.000000, 0.000000)">
+                        <polygon id="XMLID_3493_" fill="#58B147" points="229.5 111.5 172.3 0.4 115.1 111.5"></polygon>
+                        <polygon id="XMLID_3492_" fill="#088443" points="115.1 111.5 58 0.4 0.8 111.5"></polygon>
+                    </g>
+                    <g id="XMLID_3488_" transform="translate(1372.000000, 0.000000)">
+                        <polygon id="XMLID_3490_" fill="#58B147" points="229.3 111.5 172.1 0.4 114.9 111.5"></polygon>
+                        <polygon id="XMLID_3489_" fill="#088443" points="114.9 111.5 57.7 0.4 0.5 111.5"></polygon>
+                    </g>
+                </g>
+                <g id="XMLID_3416_" transform="translate(0.000000, 778.000000)">
+                    <g id="XMLID_3435_" transform="translate(1372.000000, 0.000000)">
+                        <polygon id="XMLID_3486_" fill="#58B147" points="0.5 111.4 57.7 0.3 114.9 111.4"></polygon>
+                        <polygon id="XMLID_3485_" fill="#088443" points="114.9 111.4 172.1 0.3 229.3 111.4"></polygon>
+                    </g>
+                    <g id="XMLID_3432_" transform="translate(1143.000000, 0.000000)">
+                        <polygon id="XMLID_3434_" fill="#58B147" points="0.8 111.4 58 0.3 115.1 111.4"></polygon>
+                        <polygon id="XMLID_3433_" fill="#088443" points="115.1 111.4 172.3 0.3 229.5 111.4"></polygon>
+                    </g>
+                    <g id="XMLID_3429_" transform="translate(915.000000, 0.000000)">
+                        <polygon id="XMLID_3431_" fill="#58B147" points="0 111.4 57.2 0.3 114.4 111.4"></polygon>
+                        <polygon id="XMLID_3430_" fill="#088443" points="114.4 111.4 171.6 0.3 228.8 111.4"></polygon>
+                    </g>
+                    <g id="XMLID_3426_" transform="translate(686.000000, 0.000000)">
+                        <polygon id="XMLID_3428_" fill="#58B147" points="0.3 111.4 57.5 0.3 114.7 111.4"></polygon>
+                        <polygon id="XMLID_3427_" fill="#088443" points="114.7 111.4 171.8 0.3 229 111.4"></polygon>
+                    </g>
+                    <g id="XMLID_3423_" transform="translate(457.000000, 0.000000)">
+                        <polygon id="XMLID_3425_" fill="#58B147" points="0.5 111.4 57.7 0.3 114.9 111.4"></polygon>
+                        <polygon id="XMLID_3424_" fill="#088443" points="114.9 111.4 172.1 0.3 229.3 111.4"></polygon>
+                    </g>
+                    <g id="XMLID_3420_" transform="translate(228.000000, 0.000000)">
+                        <polygon id="XMLID_3422_" fill="#58B147" points="0.8 111.4 58 0.3 115.2 111.4"></polygon>
+                        <polygon id="XMLID_3421_" fill="#088443" points="115.2 111.4 172.3 0.3 229.5 111.4"></polygon>
+                    </g>
+                    <g id="XMLID_3417_">
+                        <polygon id="XMLID_3419_" fill="#58B147" points="0 111.4 57.2 0.3 114.4 111.4"></polygon>
+                        <polygon id="XMLID_3418_" fill="#088443" points="114.4 111.4 171.6 0.3 228.8 111.4"></polygon>
+                    </g>
+                </g>
+                <g id="XMLID_3394_" transform="translate(0.000000, 667.000000)">
+                    <g id="XMLID_3413_">
+                        <polygon id="XMLID_3415_" fill="#58B147" points="228.8 111.3 171.6 0.2 114.4 111.3"></polygon>
+                        <polygon id="XMLID_3414_" fill="#088443" points="114.4 111.3 57.2 0.2 0 111.3"></polygon>
+                    </g>
+                    <g id="XMLID_3410_" transform="translate(228.000000, 0.000000)">
+                        <polygon id="XMLID_3412_" fill="#58B147" points="229.5 111.3 172.3 0.2 115.2 111.3"></polygon>
+                        <polygon id="XMLID_3411_" fill="#088443" points="115.2 111.3 58 0.2 0.8 111.3"></polygon>
+                    </g>
+                    <g id="XMLID_3407_" transform="translate(457.000000, 0.000000)">
+                        <polygon id="XMLID_3409_" fill="#58B147" points="229.3 111.3 172.1 0.2 114.9 111.3"></polygon>
+                        <polygon id="XMLID_3408_" fill="#088443" points="114.9 111.3 57.7 0.2 0.5 111.3"></polygon>
+                    </g>
+                    <g id="XMLID_3404_" transform="translate(686.000000, 0.000000)">
+                        <polygon id="XMLID_3406_" fill="#58B147" points="229 111.3 171.8 0.2 114.7 111.3"></polygon>
+                        <polygon id="XMLID_3405_" fill="#088443" points="114.7 111.3 57.5 0.2 0.3 111.3"></polygon>
+                    </g>
+                    <g id="XMLID_3401_" transform="translate(915.000000, 0.000000)">
+                        <polygon id="XMLID_3403_" fill="#58B147" points="228.8 111.3 171.6 0.2 114.4 111.3"></polygon>
+                        <polygon id="XMLID_3402_" fill="#088443" points="114.4 111.3 57.2 0.2 0 111.3"></polygon>
+                    </g>
+                    <g id="XMLID_3398_" transform="translate(1143.000000, 0.000000)">
+                        <polygon id="XMLID_3400_" fill="#58B147" points="229.5 111.3 172.3 0.2 115.1 111.3"></polygon>
+                        <polygon id="XMLID_3399_" fill="#088443" points="115.1 111.3 58 0.2 0.8 111.3"></polygon>
+                    </g>
+                    <g id="XMLID_3395_" transform="translate(1372.000000, 0.000000)">
+                        <polygon id="XMLID_3397_" fill="#58B147" points="229.3 111.3 172.1 0.2 114.9 111.3"></polygon>
+                        <polygon id="XMLID_3396_" fill="#088443" points="114.9 111.3 57.7 0.2 0.5 111.3"></polygon>
+                    </g>
+                </g>
+                <g id="XMLID_3372_" transform="translate(0.000000, 556.000000)">
+                    <g id="XMLID_3391_" transform="translate(1372.000000, 0.000000)">
+                        <polygon id="XMLID_3393_" fill="#58B147" points="0.5 111.2 57.7 0.1 114.9 111.2"></polygon>
+                        <polygon id="XMLID_3392_" fill="#088443" points="114.9 111.2 172.1 0.1 229.3 111.2"></polygon>
+                    </g>
+                    <g id="XMLID_3388_" transform="translate(1143.000000, 0.000000)">
+                        <polygon id="XMLID_3390_" fill="#58B147" points="0.8 111.2 58 0.1 115.1 111.2"></polygon>
+                        <polygon id="XMLID_3389_" fill="#088443" points="115.1 111.2 172.3 0.1 229.5 111.2"></polygon>
+                    </g>
+                    <g id="XMLID_3385_" transform="translate(915.000000, 0.000000)">
+                        <polygon id="XMLID_3387_" fill="#58B147" points="0 111.2 57.2 0.1 114.4 111.2"></polygon>
+                        <polygon id="XMLID_3386_" fill="#088443" points="114.4 111.2 171.6 0.1 228.8 111.2"></polygon>
+                    </g>
+                    <g id="XMLID_3382_" transform="translate(686.000000, 0.000000)">
+                        <polygon id="XMLID_3384_" fill="#58B147" points="0.3 111.2 57.5 0.1 114.7 111.2"></polygon>
+                        <polygon id="XMLID_3383_" fill="#088443" points="114.7 111.2 171.8 0.1 229 111.2"></polygon>
+                    </g>
+                    <g id="XMLID_3379_" transform="translate(457.000000, 0.000000)">
+                        <polygon id="XMLID_3381_" fill="#58B147" points="0.5 111.2 57.7 0.1 114.9 111.2"></polygon>
+                        <polygon id="XMLID_3380_" fill="#088443" points="114.9 111.2 172.1 0.1 229.3 111.2"></polygon>
+                    </g>
+                    <g id="XMLID_3376_" transform="translate(228.000000, 0.000000)">
+                        <polygon id="XMLID_3378_" fill="#58B147" points="0.8 111.2 58 0.1 115.2 111.2"></polygon>
+                        <polygon id="XMLID_3377_" fill="#088443" points="115.2 111.2 172.3 0.1 229.5 111.2"></polygon>
+                    </g>
+                    <g id="XMLID_3373_">
+                        <polygon id="XMLID_3375_" fill="#58B147" points="0 111.2 57.2 0.1 114.4 111.2"></polygon>
+                        <polygon id="XMLID_3374_" fill="#088443" points="114.4 111.2 171.6 0.1 228.8 111.2"></polygon>
+                    </g>
+                </g>
+                <g id="XMLID_3350_" transform="translate(0.000000, 444.000000)">
+                    <g id="XMLID_3369_">
+                        <polygon id="XMLID_3371_" fill="#58B147" points="228.8 112.1 171.6 0.9 114.4 112.1"></polygon>
+                        <polygon id="XMLID_3370_" fill="#088443" points="114.4 112.1 57.2 0.9 0 112.1"></polygon>
+                    </g>
+                    <g id="XMLID_3366_" transform="translate(228.000000, 0.000000)">
+                        <polygon id="XMLID_3368_" fill="#58B147" points="229.5 112.1 172.3 0.9 115.2 112.1"></polygon>
+                        <polygon id="XMLID_3367_" fill="#088443" points="115.2 112.1 58 0.9 0.8 112.1"></polygon>
+                    </g>
+                    <g id="XMLID_3363_" transform="translate(457.000000, 0.000000)">
+                        <polygon id="XMLID_3365_" fill="#58B147" points="229.3 112.1 172.1 0.9 114.9 112.1"></polygon>
+                        <polygon id="XMLID_3364_" fill="#088443" points="114.9 112.1 57.7 0.9 0.5 112.1"></polygon>
+                    </g>
+                    <g id="XMLID_3360_" transform="translate(686.000000, 0.000000)">
+                        <polygon id="XMLID_3362_" fill="#58B147" points="229 112.1 171.8 0.9 114.7 112.1"></polygon>
+                        <polygon id="XMLID_3361_" fill="#088443" points="114.7 112.1 57.5 0.9 0.3 112.1"></polygon>
+                    </g>
+                    <g id="XMLID_3357_" transform="translate(915.000000, 0.000000)">
+                        <polygon id="XMLID_3359_" fill="#58B147" points="228.8 112.1 171.6 0.9 114.4 112.1"></polygon>
+                        <polygon id="XMLID_3358_" fill="#088443" points="114.4 112.1 57.2 0.9 0 112.1"></polygon>
+                    </g>
+                    <g id="XMLID_3354_" transform="translate(1143.000000, 0.000000)">
+                        <polygon id="XMLID_3356_" fill="#58B147" points="229.5 112.1 172.3 0.9 115.1 112.1"></polygon>
+                        <polygon id="XMLID_3355_" fill="#088443" points="115.1 112.1 58 0.9 0.8 112.1"></polygon>
+                    </g>
+                    <g id="XMLID_3351_" transform="translate(1372.000000, 0.000000)">
+                        <polygon id="XMLID_3353_" fill="#58B147" points="229.3 112.1 172.1 0.9 114.9 112.1"></polygon>
+                        <polygon id="XMLID_3352_" fill="#088443" points="114.9 112.1 57.7 0.9 0.5 112.1"></polygon>
+                    </g>
+                </g>
+                <g id="XMLID_3328_" transform="translate(0.000000, 333.000000)">
+                    <g id="XMLID_3347_" transform="translate(1372.000000, 0.000000)">
+                        <polygon id="XMLID_3349_" fill="#58B147" points="0.5 111.9 57.7 0.8 114.9 111.9"></polygon>
+                        <polygon id="XMLID_3348_" fill="#088443" points="114.9 111.9 172.1 0.8 229.3 111.9"></polygon>
+                    </g>
+                    <g id="XMLID_3344_" transform="translate(1143.000000, 0.000000)">
+                        <polygon id="XMLID_3346_" fill="#58B147" points="0.8 111.9 58 0.8 115.1 111.9"></polygon>
+                        <polygon id="XMLID_3345_" fill="#088443" points="115.1 111.9 172.3 0.8 229.5 111.9"></polygon>
+                    </g>
+                    <g id="XMLID_3341_" transform="translate(915.000000, 0.000000)">
+                        <polygon id="XMLID_3343_" fill="#58B147" points="0 111.9 57.2 0.8 114.4 111.9"></polygon>
+                        <polygon id="XMLID_3342_" fill="#088443" points="114.4 111.9 171.6 0.8 228.8 111.9"></polygon>
+                    </g>
+                    <g id="XMLID_3338_" transform="translate(686.000000, 0.000000)">
+                        <polygon id="XMLID_3340_" fill="#58B147" points="0.3 111.9 57.5 0.8 114.7 111.9"></polygon>
+                        <polygon id="XMLID_3339_" fill="#088443" points="114.7 111.9 171.8 0.8 229 111.9"></polygon>
+                    </g>
+                    <g id="XMLID_3335_" transform="translate(457.000000, 0.000000)">
+                        <polygon id="XMLID_3337_" fill="#58B147" points="0.5 111.9 57.7 0.8 114.9 111.9"></polygon>
+                        <polygon id="XMLID_3336_" fill="#088443" points="114.9 111.9 172.1 0.8 229.3 111.9"></polygon>
+                    </g>
+                    <g id="XMLID_3332_" transform="translate(228.000000, 0.000000)">
+                        <polygon id="XMLID_3334_" fill="#58B147" points="0.8 111.9 58 0.8 115.2 111.9"></polygon>
+                        <polygon id="XMLID_3333_" fill="#088443" points="115.2 111.9 172.3 0.8 229.5 111.9"></polygon>
+                    </g>
+                    <g id="XMLID_3329_">
+                        <polygon id="XMLID_3331_" fill="#58B147" points="0 111.9 57.2 0.8 114.4 111.9"></polygon>
+                        <polygon id="XMLID_3330_" fill="#088443" points="114.4 111.9 171.6 0.8 228.8 111.9"></polygon>
+                    </g>
+                </g>
+                <g id="XMLID_3306_" transform="translate(0.000000, 222.000000)">
+                    <g id="XMLID_3325_">
+                        <polygon id="XMLID_3327_" fill="#58B147" points="228.8 111.8 171.6 0.7 114.4 111.8"></polygon>
+                        <polygon id="XMLID_3326_" fill="#088443" points="114.4 111.8 57.2 0.7 0 111.8"></polygon>
+                    </g>
+                    <g id="XMLID_3322_" transform="translate(228.000000, 0.000000)">
+                        <polygon id="XMLID_3324_" fill="#58B147" points="229.5 111.8 172.3 0.7 115.2 111.8"></polygon>
+                        <polygon id="XMLID_3323_" fill="#088443" points="115.2 111.8 58 0.7 0.8 111.8"></polygon>
+                    </g>
+                    <g id="XMLID_3319_" transform="translate(457.000000, 0.000000)">
+                        <polygon id="XMLID_3321_" fill="#58B147" points="229.3 111.8 172.1 0.7 114.9 111.8"></polygon>
+                        <polygon id="XMLID_3320_" fill="#088443" points="114.9 111.8 57.7 0.7 0.5 111.8"></polygon>
+                    </g>
+                    <g id="XMLID_3316_" transform="translate(686.000000, 0.000000)">
+                        <polygon id="XMLID_3318_" fill="#58B147" points="229 111.8 171.8 0.7 114.7 111.8"></polygon>
+                        <polygon id="XMLID_3317_" fill="#088443" points="114.7 111.8 57.5 0.7 0.3 111.8"></polygon>
+                    </g>
+                    <g id="XMLID_3313_" transform="translate(915.000000, 0.000000)">
+                        <polygon id="XMLID_3315_" fill="#58B147" points="228.8 111.8 171.6 0.7 114.4 111.8"></polygon>
+                        <polygon id="XMLID_3314_" fill="#088443" points="114.4 111.8 57.2 0.7 0 111.8"></polygon>
+                    </g>
+                    <g id="XMLID_3310_" transform="translate(1143.000000, 0.000000)">
+                        <polygon id="XMLID_3312_" fill="#58B147" points="229.5 111.8 172.3 0.7 115.1 111.8"></polygon>
+                        <polygon id="XMLID_3311_" fill="#088443" points="115.1 111.8 58 0.7 0.8 111.8"></polygon>
+                    </g>
+                    <g id="XMLID_3307_" transform="translate(1372.000000, 0.000000)">
+                        <polygon id="XMLID_3309_" fill="#58B147" points="229.3 111.8 172.1 0.7 114.9 111.8"></polygon>
+                        <polygon id="XMLID_3308_" fill="#088443" points="114.9 111.8 57.7 0.7 0.5 111.8"></polygon>
+                    </g>
+                </g>
+                <g id="XMLID_3264_">
+                    <g id="XMLID_3303_">
+                        <polygon id="XMLID_3305_" fill="#58B147" points="228.8 111.6 171.6 0.5 114.4 111.6"></polygon>
+                        <polygon id="XMLID_3304_" fill="#088443" points="114.4 111.6 57.2 0.5 0 111.6"></polygon>
+                    </g>
+                    <g id="XMLID_3280_" transform="translate(228.000000, 0.000000)">
+                        <polygon id="XMLID_3302_" fill="#58B147" points="229.5 111.6 172.3 0.5 115.2 111.6"></polygon>
+                        <polygon id="XMLID_3301_" fill="#088443" points="115.2 111.6 58 0.5 0.8 111.6"></polygon>
+                    </g>
+                    <g id="XMLID_3277_" transform="translate(457.000000, 0.000000)">
+                        <polygon id="XMLID_3279_" fill="#58B147" points="229.3 111.6 172.1 0.5 114.9 111.6"></polygon>
+                        <polygon id="XMLID_3278_" fill="#088443" points="114.9 111.6 57.7 0.5 0.5 111.6"></polygon>
+                    </g>
+                    <g id="XMLID_3274_" transform="translate(686.000000, 0.000000)">
+                        <polygon id="XMLID_3276_" fill="#58B147" points="229 111.6 171.8 0.5 114.7 111.6"></polygon>
+                        <polygon id="XMLID_3275_" fill="#088443" points="114.7 111.6 57.5 0.5 0.3 111.6"></polygon>
+                    </g>
+                    <g id="XMLID_3271_" transform="translate(915.000000, 0.000000)">
+                        <polygon id="XMLID_3273_" fill="#58B147" points="228.8 111.6 171.6 0.5 114.4 111.6"></polygon>
+                        <polygon id="XMLID_3272_" fill="#088443" points="114.4 111.6 57.2 0.5 0 111.6"></polygon>
+                    </g>
+                    <g id="XMLID_3268_" transform="translate(1143.000000, 0.000000)">
+                        <polygon id="XMLID_3270_" fill="#58B147" points="229.5 111.6 172.3 0.5 115.1 111.6"></polygon>
+                        <polygon id="XMLID_3269_" fill="#088443" points="115.1 111.6 58 0.5 0.8 111.6"></polygon>
+                    </g>
+                    <g id="XMLID_3265_" transform="translate(1372.000000, 0.000000)">
+                        <polygon id="XMLID_3267_" fill="#58B147" points="229.3 111.6 172.1 0.5 114.9 111.6"></polygon>
+                        <polygon id="XMLID_3266_" fill="#088443" points="114.9 111.6 57.7 0.5 0.5 111.6"></polygon>
+                    </g>
+                </g>
+                <g id="XMLID_2796_" transform="translate(0.000000, 111.000000)">
+                    <g id="XMLID_3261_" transform="translate(1372.000000, 0.000000)">
+                        <polygon id="XMLID_3263_" fill="#58B147" points="0.5 111.7 57.7 0.6 114.9 111.7"></polygon>
+                        <polygon id="XMLID_3262_" fill="#088443" points="114.9 111.7 172.1 0.6 229.3 111.7"></polygon>
+                    </g>
+                    <g id="XMLID_3258_" transform="translate(1143.000000, 0.000000)">
+                        <polygon id="XMLID_3260_" fill="#58B147" points="0.8 111.7 58 0.6 115.1 111.7"></polygon>
+                        <polygon id="XMLID_3259_" fill="#088443" points="115.1 111.7 172.3 0.6 229.5 111.7"></polygon>
+                    </g>
+                    <g id="XMLID_3255_" transform="translate(915.000000, 0.000000)">
+                        <polygon id="XMLID_3257_" fill="#58B147" points="0 111.7 57.2 0.6 114.4 111.7"></polygon>
+                        <polygon id="XMLID_3256_" fill="#088443" points="114.4 111.7 171.6 0.6 228.8 111.7"></polygon>
+                    </g>
+                    <g id="XMLID_2806_" transform="translate(686.000000, 0.000000)">
+                        <polygon id="XMLID_3254_" fill="#58B147" points="0.3 111.7 57.5 0.6 114.7 111.7"></polygon>
+                        <polygon id="XMLID_2808_" fill="#088443" points="114.7 111.7 171.8 0.6 229 111.7"></polygon>
+                    </g>
+                    <g id="XMLID_2803_" transform="translate(457.000000, 0.000000)">
+                        <polygon id="XMLID_2805_" fill="#58B147" points="0.5 111.7 57.7 0.6 114.9 111.7"></polygon>
+                        <polygon id="XMLID_2804_" fill="#088443" points="114.9 111.7 172.1 0.6 229.3 111.7"></polygon>
+                    </g>
+                    <g id="XMLID_2800_" transform="translate(228.000000, 0.000000)">
+                        <polygon id="XMLID_2802_" fill="#58B147" points="0.8 111.7 58 0.6 115.2 111.7"></polygon>
+                        <polygon id="XMLID_2801_" fill="#088443" points="115.2 111.7 172.3 0.6 229.5 111.7"></polygon>
+                    </g>
+                    <g id="XMLID_2797_">
+                        <polygon id="XMLID_2799_" fill="#58B147" points="0 111.7 57.2 0.6 114.4 111.7"></polygon>
+                        <polygon id="XMLID_2798_" fill="#088443" points="114.4 111.7 171.6 0.6 228.8 111.7"></polygon>
+                    </g>
+                </g>
+            </g>
+            <path d="M1754.4,1109.8 L40,1109.8 C37.2,1109.8 35,1107.6 35,1104.8 L35,37 C35,34.2 37.2,32 40,32 L1754.4,32 C1757.2,32 1759.4,34.2 1759.4,37 L1759.4,1104.8 C1759.4,1107.5 1757.2,1109.8 1754.4,1109.8 L1754.4,1109.8 Z" id="XMLID_3509_" fill-opacity="0.4" fill="#20512B"></path>
+        </g>
+    </g>
+</svg>
